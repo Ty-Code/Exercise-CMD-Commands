@@ -1,6 +1,4 @@
 # favorite-cmd-commands
-***
-
 
 ### mv `file/directoryName``newFile/directoryName`
 
