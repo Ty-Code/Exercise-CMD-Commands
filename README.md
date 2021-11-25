@@ -1,6 +1,8 @@
 # favorite-cmd-commands
 
-### mv `file/directoryName``newFile/directoryName`
+### mv `movingFile/DirectoryName newHomeDirectoryName`
+
+### mv `oldFile/DirectoryName renamedFile/DirectoryName`
 
 You can not only move a file/directory to another directory with this command but also rename them.
 
